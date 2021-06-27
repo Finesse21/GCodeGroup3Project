@@ -1,0 +1,84 @@
+body {
+  background-color: #e9edc9;
+  margin: 0 auto;
+}
+
+nav {
+  background-color: #33ACFF;
+  height: 50px;
+  font-size: 25px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: underline;
+}
+h2 {
+  text-align: center;
+  font-size:50px;
+  font-family: 'Shadows Into Light', cursive;
+  text-decoration: #33ACFF wavy underline;
+}
+h3 {
+  color:#6b705c;
+}
+.center-text {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+
+blockquote > p {
+  font-size: 30px;
+}
+
+.center-text > div {
+  margin: 10px;
+}
+
+img {
+  margin-left: 25%;
+  width: 50%;
+  border-radius: 50%;
+}
+#photo{
+  border: 7px solid #33ACFF;
+}
+a {
+  font-style: italic;
+}
+a:hover {
+  color: green;
+}
+li {
+  margin-top: 5px;
+}
+blockquote {
+  text-align:center;
+}
+footer {
+  margin-top: 50px;
+}
+figcaption {
+  text-align: center;
+font-size: 12px;
+font-style: italic;
+}
+#important {
+  font-weight: bold;
+}
+.Accomplishments{
+  margin: 50px;
+  padding: 2px;
+  padding-left: 20px;
+}
+#footer{
+border-top: 2px solid white;
+margin-bottom: 20px;
+}
