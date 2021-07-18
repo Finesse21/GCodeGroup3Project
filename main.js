@@ -10,4 +10,3 @@ function toggleDarkMode() {
   }
 }
 var footerElement = document.getElementById('footer')
-if ()
